@@ -1,42 +1,52 @@
 # E-Commerce-Customer-Dashboard-
 This Power BI dashboard provides a comprehensive analysis of customer engagement, subscription plans, churn rate, average order value, and city-wise performance using over 200K customer records. It helps businesses identify high-value customers, reduce churn, enhance customer experience, and drive sustainable revenue growth through data-driven decision-making.
 
+----------
+📂 Project Overview
+-
 
 
 
+-----------
+📊 Key Performance Indicators (KPIs)
+-
+- 👥 Total Customers 200K -- Total customer base analyzed.
+- 🛒 Total Orders 50M -- Overall orders placed by customers.
+- 💵 Average Order Value (AOV) ₹5.10K -- Average amount spent per order.
+- ⭐ Top Subscription Plan Basic (80.06K) -- Most popular subscription among customers.
+- 🏆 Highest Average Order Value Mumbai – ₹5,125.31 -- City with the highest customer spending.
+- 🎫 Highest Support Tickets Kolkata – 28.84K -- Indicates increased customer support demand
+  
+----
+📈 Key Business Insights
+-
+- The dashboard analyzes 200K customers across multiple cities and subscription plans, providing a complete view of customer behavior.
+- Customers generated 50M total orders, while maintaining an Average Order Value of ₹5.10K, indicating strong purchasing activity.
+- An estimated Customer Lifetime Value (CLV) of 1.28M highlights the long-term revenue potential and importance of customer retention.
+- Mumbai records the highest average order value (₹5,125.31), whereas Hyderabad has the lowest (₹5,077.82), indicating opportunities for regional marketing optimization.
+- Basic Plan is the most popular subscription, followed by Silver and Gold, while Platinum has the fewest subscribers but may represent premium customers.
+- Support ticket volumes are relatively similar across cities, with Kolkata receiving the highest number, highlighting areas where customer service improvements can increase satisfaction.
 
+---------
+Tools & Technologies
 
+- Power BI
+- Excel/CSV Dataset
+- Data Cleaning
+- Data Visulization
+- Dax Measures
+- SQL
+-----
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+💼 Business Value
+-
+- Improve the Basic subscription plan by introducing exclusive benefits, loyalty rewards, and personalized discounts.
+- Increase revenue by promoting premium Gold and Platinum subscriptions through upselling strategies.
+- Focus marketing efforts on cities with lower average order values to improve regional sales performance.
+- Optimize customer support operations in high-ticket cities to improve customer satisfaction and reduce response time.
+- Leverage Customer Lifetime Value (CLV) to prioritize high-value customers and maximize long-term profitability.
+  
+--------
 Dashboard Preview
 -
 -----
