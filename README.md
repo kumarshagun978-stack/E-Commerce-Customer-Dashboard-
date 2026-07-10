@@ -4,8 +4,7 @@ This Power BI dashboard provides a comprehensive analysis of customer engagement
 ----------
 📂 Project Overview
 -
-
-
+This Customer Analytics Dashboard was developed in Microsoft Power BI to analyze 200K+ customer records and 50M+ orders, transforming raw e-commerce data into actionable business insights. The dashboard tracks key KPIs such as Customer Lifetime Value (CLV: 1.28M), Average Order Value (AOV: ₹5.10K), customer churn, subscription performance, customer tenure, and regional sales trends. Using Power Query, DAX, and Data Modeling, the data was cleaned, transformed, and visualized into interactive reports for business analysis. The insights reveal that the Basic subscription plan has the largest customer base but also the highest churn, highlighting opportunities to improve customer retention and loyalty. Regional analysis identifies Mumbai as the highest-performing city (AOV: ₹5,125.31) and Kolkata as the city with the highest customer support demand, enabling better resource allocation. This dashboard empowers businesses to optimize marketing strategies, improve customer satisfaction, increase recurring revenue, and make data-driven decisions that support long-term business growth and profitability.
 
 -----------
 📊 Key Performance Indicators (KPIs)
