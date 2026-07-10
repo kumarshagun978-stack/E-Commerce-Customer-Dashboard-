@@ -36,8 +36,10 @@
 
 
 
-
-![Dashboard](PASTE_RAW_URL_HERE)
+Dashboard Preview
+-
+-----
+![Dashboard](dashboard.png)
 
 ------------
 📬 Connect With Me
