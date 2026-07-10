@@ -42,6 +42,11 @@ Dashboard Preview
 -----
 ![Dashboard](dashboard.png)
 
+----
+💼 Business Solution
+-
+This Power BI Customer Analytics Dashboard transforms data from 200K+ customers and 50M+ orders into actionable business insights that support smarter decision-making and sustainable growth. The dashboard identifies the Basic subscription plan as having the highest customer base but also the highest churn, enabling businesses to implement targeted retention campaigns and loyalty programs. By tracking Customer Lifetime Value (CLV: 1.28M) and Average Order Value (AOV: ₹5.10K), it helps prioritize high-value customers and maximize long-term profitability. Regional analysis highlights Mumbai as the top-performing city (AOV: ₹5,125.31) while identifying lower-performing regions for focused marketing and sales optimization. Customer support insights reveal Kolkata has the highest ticket volume, helping improve service quality and operational efficiency
+
 ------------
 📬 Connect With Me
 --
